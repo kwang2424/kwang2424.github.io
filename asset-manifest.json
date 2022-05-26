@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.34d3a258.css",
+    "main.js": "/website/static/js/main.74ee94c4.js",
+    "static/js/787.88012170.chunk.js": "/website/static/js/787.88012170.chunk.js",
+    "static/media/itsme_crop.jpg": "/website/static/media/itsme_crop.dc601e35dc7673680ee2.jpg",
+    "static/media/napoleon.png": "/website/static/media/napoleon.323b0ef3844a78b8a394.png",
+    "static/media/my-portfolio.jpg": "/website/static/media/my-portfolio.5206c01c69cf6ee8506b.jpg",
+    "static/media/proximasoft-regular-webfont.woff": "/website/static/media/proximasoft-regular-webfont.c2c0ba67d2bb709db98f.woff",
+    "static/media/anonymous_pro-webfont.woff": "/website/static/media/anonymous_pro-webfont.737dbc05017be68d2ad8.woff",
+    "static/media/firacode-regular-webfont.woff": "/website/static/media/firacode-regular-webfont.6a2a1e449b5c49fe7749.woff",
+    "static/media/futura_medium_bt-webfont.woff": "/website/static/media/futura_medium_bt-webfont.686d74948943f94fa9e7.woff",
+    "static/media/proximasoft-regular-webfont.woff2": "/website/static/media/proximasoft-regular-webfont.8bb1423c601ffc34fc04.woff2",
+    "static/media/futura_light_bt-webfont.woff": "/website/static/media/futura_light_bt-webfont.a449191861ac075fd579.woff",
+    "static/media/DinaRemaster-Bold.ttf": "/website/static/media/DinaRemaster-Bold.aae414d9083fbbc8d305.ttf",
+    "static/media/firacode-regular-webfont.woff2": "/website/static/media/firacode-regular-webfont.84a1244f859c63dff9b3.woff2",
+    "static/media/anonymous_pro-webfont.woff2": "/website/static/media/anonymous_pro-webfont.4d4e2f74c38419f291e6.woff2",
+    "static/media/futura_medium_bt-webfont.woff2": "/website/static/media/futura_medium_bt-webfont.a60dc506f077ba7b3d1b.woff2",
+    "static/media/futura_light_bt-webfont.woff2": "/website/static/media/futura_light_bt-webfont.d038199dbc2d840fffca.woff2",
+    "static/media/dina10px-webfont.woff": "/website/static/media/dina10px-webfont.0a02465e02f59482cd65.woff",
+    "static/media/dina10px-webfont.woff2": "/website/static/media/dina10px-webfont.0174a6e1e5a131da9fd4.woff2",
+    "static/media/github.svg": "/website/static/media/github.b9d2217c7a32fb2e612323513c0b48fa.svg",
+    "index.html": "/website/index.html",
+    "static/media/linkedin.svg": "/website/static/media/linkedin.aaa01dd36d2cbc5f03c15695aa78dc82.svg",
+    "static/media/gmail.svg": "/website/static/media/gmail.919043344c5889902421bbd2be41f1ef.svg",
+    "main.34d3a258.css.map": "/website/static/css/main.34d3a258.css.map",
+    "main.74ee94c4.js.map": "/website/static/js/main.74ee94c4.js.map",
+    "787.88012170.chunk.js.map": "/website/static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d3a258.css",
+    "static/js/main.74ee94c4.js"
+  ]
+}
