@@ -1,0 +1,59 @@
+$primary-color: #ffd700;
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@font-face {
+    font-family: 'proxima_softregular';
+    src: url('./assets/fonts/proximasoft-regular-webfont.woff2') format('woff2'),
+         url('./assets/fonts/proximasoft-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'fira_coderegular';
+    src: url('./assets/fonts/firacode-regular-webfont.woff2') format('woff2'),
+         url('./assets/fonts/firacode-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futuralight';
+    src: url('./assets/fonts/futura_light_bt-webfont.woff2') format('woff2'),
+         url('./assets/fonts/futura_light_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futuramedium';
+    src: url('./assets/fonts/futura_medium_bt-webfont.woff2') format('woff2'),
+         url('./assets/fonts/futura_medium_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'anonymous_proregular';
+    src: url('./assets/fonts/anonymous_pro-webfont.woff2') format('woff2'),
+         url('./assets/fonts/anonymous_pro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Dina';
+    src: url('./assets/fonts/DinaRemaster-Bold.ttf') format('ttc');
+}
+
+@font-face {
+    font-family: 'dina';
+    src: url('./assets/fonts/dina10px-webfont.woff2') format('woff2'),
+         url('./assets/fonts/dina10px-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

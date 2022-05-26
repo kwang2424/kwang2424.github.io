@@ -1,0 +1,21 @@
+.projects-container {
+    .projects-intro {
+        display: flex;
+        margin: 80px 80px;
+        justify-content: space-between;
+        
+        img {
+            max-width: 20vw;
+            max-height: 20vw;
+            height: auto;
+            width: auto;
+            margin-left: 8%;
+        }
+
+        .intro-text {
+            width: 50%;
+            font-family: 'Dina';
+            font-size: 19px;
+        }
+    }
+}

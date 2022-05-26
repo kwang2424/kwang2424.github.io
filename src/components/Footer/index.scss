@@ -1,0 +1,17 @@
+.footer-container {
+    margin-top: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    .footer-footer {
+        display: flex;
+        justify-content: center;
+        margin: 0 80px;
+        column-gap: 20px;
+        img {
+            // filter: invert(39%) sepia(20%) saturate(4253%) hue-rotate(130deg) brightness(102%) contrast(101%);
+            height: 25px;
+            width: 25px;
+        }
+    }
+    
+}

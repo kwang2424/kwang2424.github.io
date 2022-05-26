@@ -1,0 +1,32 @@
+.body-pod {
+    margin-left: 80px;
+    // width: 100%;
+    .top {
+        display: flex;
+        justify-content: space-between;
+
+        .nap {
+            margin-top: 20px;
+            max-height: 250px;
+            margin-right: 12.5%;
+        }
+
+        .intro {
+            margin-top: 100px;
+            width: 50%;
+            font-family: 'Dina';
+            font-size: 18px;
+        }
+    }
+
+    .pods {
+        margin-top: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-right: 80px;
+    }
+    
+    
+}
+

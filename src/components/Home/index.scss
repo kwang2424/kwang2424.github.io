@@ -1,0 +1,48 @@
+
+.body-top {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-family: 'fira_coderegular';
+    color: #00A36C;
+    font-size: 50px;       
+}
+
+.text-section {
+    font-family: 'Dina', 'anonymous_proregular';
+    margin-left: 80px;
+    width: 50%;
+    font-size: 20px;
+}
+
+.my-pic {
+    display: flex;
+    margin-right: 80px;
+    max-height: 450px;
+    max-width: 425px;
+    // align-items: center;
+    object-fit: contain;
+}
+
+.skills {
+    margin-left: 80px;
+    margin-bottom: 20px;
+    h1 {
+        margin-bottom: 20px;
+        font-size: 40px;
+    }
+    .skill-title {
+        font-family: 'Dina';
+        font-size: 28px;
+        margin: 10px 0;
+    }
+    .skills-list {
+        font-family: 'Dina';
+        font-size: 20px;
+        
+    }
+    
+}

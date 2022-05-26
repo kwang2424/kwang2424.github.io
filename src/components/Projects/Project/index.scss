@@ -1,0 +1,26 @@
+.project-container {
+    display: flex;
+    margin: 0 80px;
+    justify-content: space-between;
+    img {
+        max-height: 400px;
+        max-width: 400px;
+        border: 3px solid #000;
+        border-radius: 30px;
+    }
+
+    .project-desc {
+        width: 55%;
+        
+        .project-title {
+            color: #00A36C;
+            font-family: 'Fira Code';
+            margin-bottom: 25px;
+        }
+
+        .project-text {
+            font-family: 'Dina';
+            font-size: 18px;
+        }
+    }
+}
