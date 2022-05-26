@@ -1,7 +1,5 @@
 import './index.scss';
 import profile from '../../assets/images/itsme_crop.jpg'
-import Footer from '../Footer';
-
 
 const Home = () => {
     return (
