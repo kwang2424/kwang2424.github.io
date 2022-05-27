@@ -16,13 +16,20 @@ h1 {
     margin-left: 80px;
     width: 50%;
     font-size: 20px;
+    a {
+        color: #00A36C;
+        text-decoration: none;
+    }
 }
 
 .my-pic {
+    margin-top: 20px;
     display: flex;
     margin-right: 80px;
-    max-height: 450px;
-    max-width: 425px;
+    max-height: 55vh;
+    height: auto;
+    max-width: 55vh;
+    width: auto;
     // align-items: center;
     object-fit: contain;
 }

@@ -12,7 +12,7 @@ const Home = () => {
                 </p>
                 <p>
                     Originally, I'm from sunny San Diego, but I'm currently based in New York City!
-                    In terms of my interests, I really enjoy working with web apps and machine learning (specifically NLP). 
+                    In terms of my interests, I really enjoy working with web apps and machine learning. 
                     I'm currently looking for software engineering opportunities for the coming school year and summer 2023.
                 </p>
                 <p>
@@ -21,12 +21,12 @@ const Home = () => {
                     I have a few recommendations above!
                 </p>
                 <p>
-                    If you're interested, you can reach me at kyw2424@stern.nyu.edu!
+                    If you're interested, you can reach me at <a href="mailto:kyw2424@stern.nyu.edu!">kyw2424@stern.nyu.edu</a>
                 </p>
             </div>
             <img className="my-pic" src={profile} alt="profile" />
         </div>
-        <div class="skills">
+        <div className="skills">
             <h1>Skills</h1>
             <div className='skill-title'>Languages</div>
             <div className='skills-list'>

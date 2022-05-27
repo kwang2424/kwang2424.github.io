@@ -9,6 +9,7 @@ const Projects = () => {
             <div className="projects-intro">
                 <img src={pixel} alt="pixel art" />
                 <div className="intro-text">
+                    <h1>Projects</h1>
                     <p>
                         In my classes, I have mostly
                         been learning theory that's helped me build a foundation. 

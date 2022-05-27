@@ -5,7 +5,9 @@ const Podcasts = () => {
     return (
         <div className="body-pod">
             <div className="top">
+                
                 <div className="intro">
+                <h1>Podcasts</h1>
                 I’ve been interested in history ever since high school, but I struggled with how to further pursue my interests. 
                 After searching around, I figured that podcasts suited me the best! If you are interested in my recommendations, 
                 here are some of my favorites: 

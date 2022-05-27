@@ -1,15 +1,17 @@
 .project-container {
     display: flex;
-    margin: 0 80px;
+    margin: 0 10%;
     justify-content: space-between;
     img {
-        max-height: 400px;
-        max-width: 400px;
+        max-height: 60vh;
+        max-width: 30vw;
         border: 3px solid #000;
         border-radius: 30px;
     }
 
     .project-desc {
+        margin-top: auto;
+            margin-bottom: auto;
         width: 55%;
         
         .project-title {
@@ -21,6 +23,7 @@
         .project-text {
             font-family: 'Dina';
             font-size: 18px;
+            
         }
     }
 }
