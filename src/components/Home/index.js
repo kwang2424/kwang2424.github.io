@@ -1,9 +1,14 @@
 import './index.scss';
 import profile from '../../assets/images/itsme_crop.jpg'
-
+import Helmet from 'react-helmet';
 const Home = () => {
+    
     return (
         <>
+        <Helmet>
+            <title>Kevin Wang</title>
+            <meta name="About Page" content="Portfolio Website" />
+       </Helmet>
         <div className="body-top">
             <div className="text-section">
                 <h1>Hey, I'm Kevin</h1>

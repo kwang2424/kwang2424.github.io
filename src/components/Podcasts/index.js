@@ -1,8 +1,14 @@
 import './index.scss';
 import Napoleon from '../../assets/images/napoleon.png'
 import Podcast from './Podcast';
+import Helmet from 'react-helmet';
 const Podcasts = () => {
     return (
+        <>
+        <Helmet>
+            <title>Podcasts</title>
+            <meta name="About Page" content="Portfolio Website" />
+       </Helmet>
         <div className="body-pod">
             <div className="top">
                 
@@ -65,6 +71,7 @@ const Podcasts = () => {
                 />
             </div>
         </div>
+        </>
         )
 }
 

@@ -2,9 +2,15 @@ import './index.scss';
 import pixel from '../../assets/images/project-art.png';
 import portfolio from '../../assets/images/my-portfolio.jpg';
 import Project from './Project';
+import Helmet from 'react-helmet';
 
 const Projects = () => {
     return (
+        <>
+        <Helmet>
+            <title>Projects</title>
+            <meta name="About Page" content="Portfolio Website" />
+       </Helmet>
         <div className="projects-container">
             <div className="projects-intro">
                 <img src={pixel} alt="pixel art" />
@@ -36,6 +42,7 @@ const Projects = () => {
                     />
                 </div>
         </div>
+        </>
     )
 }
 
