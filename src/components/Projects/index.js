@@ -1,6 +1,7 @@
 import './index.scss';
 import pixel from '../../assets/images/project-art.png';
 import portfolio from '../../assets/images/my-portfolio.jpg';
+import flight from '../../assets/images/unityflight.png'
 import Project from './Project';
 import Helmet from 'react-helmet';
 
@@ -39,6 +40,15 @@ const Projects = () => {
                         I wanted to learn some web development, and I figured a website would be
                         the best way to go! More tabs and features will be added in the future so
                         keep a look out😎!"
+                    />
+                    <Project
+                        image={flight}
+                        link="https://github.com/Kevy729/unity-ml-flight"
+                        title="Reinforcement Learning Flight"
+                        description="After watching Top Gun: Maverick, I was inspired to do a flight-related project.
+                        The most realistic way I could go about this was through learning Unity, and afterwards
+                        I wanted to do a reinforcement learning related project after watching videos on the topic. So, I 
+                        ultimately decided on a reinforcement learning flight project✈️!"
                     />
                 </div>
         </div>
