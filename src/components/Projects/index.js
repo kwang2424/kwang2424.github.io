@@ -2,6 +2,7 @@ import './index.scss';
 import pixel from '../../assets/images/project-art.png';
 import portfolio from '../../assets/images/my-portfolio.jpg';
 import flight from '../../assets/images/unityflight.png'
+import terminal from '../../assets/images/terminal.jpg'
 import Project from './Project';
 import Helmet from 'react-helmet';
 
@@ -38,7 +39,7 @@ const Projects = () => {
                         title="My Portfolio Project"
                         description="This is my personal portfolio that you're on right now!
                         I wanted to learn some web development, and I figured a website would be
-                        the best way to go! More tabs and features will be added in the future so
+                        the best way to go! More tabs and projects will be added in the future so
                         keep a look out😎!"
                     />
                     <Project
@@ -49,6 +50,16 @@ const Projects = () => {
                         The most realistic way I could go about this was through learning Unity, and afterwards
                         I wanted to do a reinforcement learning related project after watching videos on the topic. So, I 
                         ultimately decided on a reinforcement learning flight project✈️!"
+                    />
+                    <Project
+                        image={terminal}
+                        link="https://kwang2424.github.io/hockey-terminal/"
+                        title="Hockey Terminal"
+                        description="As a kid, I used to play hockey but I recently started getting into watching the NHL
+                        after the 2022 Stanley Cup. As a result, I wanted to do something with my interest. I just so happened
+                        to be into terminal applications at the same time, and decided I could mix together the two. So,
+                        this project is essentially a terminal app that allows you to get basic information about teams, players,
+                        conferences, and divisions. I will be adding more specifics soon, especially as the season starts🏒!"
                     />
                 </div>
         </div>
