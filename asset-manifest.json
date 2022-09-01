@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ea6b3fd0.css",
-    "main.js": "/static/js/main.49d8c979.js",
+    "main.js": "/static/js/main.86402ee6.js",
     "static/js/787.88012170.chunk.js": "/static/js/787.88012170.chunk.js",
     "static/media/itsme_crop.jpg": "/static/media/itsme_crop.dc601e35dc7673680ee2.jpg",
     "static/media/napoleon.png": "/static/media/napoleon.323b0ef3844a78b8a394.png",
     "static/media/my-portfolio.jpg": "/static/media/my-portfolio.5206c01c69cf6ee8506b.jpg",
     "static/media/unityflight.png": "/static/media/unityflight.cb8c15f0f7c9fdeb0d0e.png",
-    "static/media/terminal.jpg": "/static/media/terminal.dc0c0033eb11039b5a35.jpg",
     "static/media/proximasoft-regular-webfont.woff": "/static/media/proximasoft-regular-webfont.c2c0ba67d2bb709db98f.woff",
     "static/media/anonymous_pro-webfont.woff": "/static/media/anonymous_pro-webfont.737dbc05017be68d2ad8.woff",
     "static/media/firacode-regular-webfont.woff": "/static/media/firacode-regular-webfont.6a2a1e449b5c49fe7749.woff",
@@ -26,11 +25,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.aaa01dd36d2cbc5f03c15695aa78dc82.svg",
     "static/media/gmail.svg": "/static/media/gmail.919043344c5889902421bbd2be41f1ef.svg",
     "main.ea6b3fd0.css.map": "/static/css/main.ea6b3fd0.css.map",
-    "main.49d8c979.js.map": "/static/js/main.49d8c979.js.map",
+    "main.86402ee6.js.map": "/static/js/main.86402ee6.js.map",
     "787.88012170.chunk.js.map": "/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea6b3fd0.css",
-    "static/js/main.49d8c979.js"
+    "static/js/main.86402ee6.js"
   ]
 }
