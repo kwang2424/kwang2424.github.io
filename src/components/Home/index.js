@@ -1,5 +1,5 @@
 import './index.scss';
-import profile from '../../assets/images/itsme_crop.jpg'
+import profile from '../../assets/images/headshot_crop.jpg'
 import Helmet from 'react-helmet';
 const Home = () => {
     
