@@ -24,8 +24,8 @@ const Projects = () => {
                     </p>
                     <p>
                         So, outside of school I've been dabbling in both web development and machine learning. 
-                        I really like machine learning, especially NLP, since a popular use case is translations.
-                        Lately, I've been trying to learn languages and linguistics, and the two fields are so interconnected.
+                        Lately, I've been trying to learn languages and linguistics, so I have gotten more interested 
+                        in NLP (especially it's use cases in translations).
                     </p>
                     <p>
                         Without further ado, here's what I've been working on lately:
@@ -55,9 +55,8 @@ const Projects = () => {
                         image={terminal}
                         link="https://kwang2424.github.io/hockey-terminal/"
                         title="Hockey Terminal"
-                        description="As a kid, I used to play hockey but I recently started getting into watching the NHL
-                        after the 2022 Stanley Cup. As a result, I wanted to do something with my interest. I just so happened
-                        to be into terminal applications at the same time, and decided I could mix together the two. So,
+                        description="Recently I started watching hockey, and this interest coincided with me going down a rabbit hole
+                        of terminal applications. So, I decided I could mix together the two. Thus,
                         this project is essentially a terminal app that allows you to get basic information about teams, players,
                         conferences, and divisions. I will be adding more specifics soon, especially as the season starts🏒!"
                     />

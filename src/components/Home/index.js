@@ -13,12 +13,12 @@ const Home = () => {
             <div className="text-section">
                 <h1>Hey, I'm Kevin</h1>
                 <p>
-                    Currently, I'm a junior at New York University studying Finance and Computer Science.
+                    Currently, I'm a junior at New York University studying Computer Science and Finance.
                 </p>
                 <p>
                     Originally, I'm from sunny San Diego, but I'm currently based in New York City!
-                    In terms of my interests, I really enjoy working with web apps and machine learning. 
-                    I'm currently looking for software engineering opportunities for the coming school year and summer 2023.
+                    In terms of my interests, I really enjoy working with web apps and machine learning, but I am currently delving into Rust and low level programming. 
+                    I'm currently looking for software engineering opportunities/internships for summer 2023.
                 </p>
                 <p>
                     Outside of school, I really enjoy playing video games and learning about history.
@@ -35,19 +35,19 @@ const Home = () => {
             <h1>Skills</h1>
             <div className='skill-title'>Languages</div>
             <div className='skills-list'>
-                Python, Java, JavaScript, C, CSS, HTML
+                Python, JavaScript, CSS, HTML, Rust
             </div>
             <div className='skill-title'>Frameworks</div>
             <div className='skills-list'>
-                React, Bootstrap, Node
+                React, MongoDB, Node, Express
             </div>
             <div className='skill-title'>Tools</div>
             <div className='skills-list'>
-                Oracle SQL, Tableau, Git, Github, Windows
+                Oracle SQL, Excel, Tableau, Git, Github, Windows
             </div>
             <div className='skill-title'>Packages</div>
             <div className='skills-list'>
-                Pandas, Numpy, Scikit-learn, Tkinter
+                Pandas, Numpy, Scikit-learn
             </div>
             </div>
         {/* <Footer /> */}
