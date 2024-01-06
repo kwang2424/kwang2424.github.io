@@ -1,8 +1,11 @@
 import './index.scss';
 import pixel from '../../assets/images/project-art.png';
 import portfolio from '../../assets/images/my-portfolio.jpg';
-import flight from '../../assets/images/unityflight.png'
-import terminal from '../../assets/images/terminal.jpg'
+import flight from '../../assets/images/unityflight.PNG';
+import terminal from '../../assets/images/terminal.JPG';
+import outlet from '../../assets/images/outletmap.png';
+import penguinblog from '../../assets/images/penguinblog.png';
+import typehelper from '../../assets/images/typehelper.png';
 import Project from './Project';
 import Helmet from 'react-helmet';
 
@@ -33,6 +36,35 @@ const Projects = () => {
                 </div>
             </div>
             <div className="projects-list">
+                    <Project
+                        image={penguinblog}
+                        link="https://github.com/kwang2424/penguin-blog"
+                        title="Penguin Blog"
+                        description="I've always wanted to make a blog because I wanted an outlet
+                        to share some of my thoughts, and use it as a way to build on my beliefs.
+                        I wanted to design it rather than using some provider, but it took much longer
+                        than I thought. I'm still working on it and I've admittedly lost some motivation,
+                        but now that I'm back home for break I want to finish it up!🐧"    
+                    />
+                    <Project 
+                        image={outlet}
+                        link="https://github.com/kwang2424/outlet-map"
+                        title="Outlet Map"
+                        description="This was a group project as part of a Tech@NYU cohort program.
+                        While technically not super complex, since it is just built on a React frontend 
+                        and a Spring backend, it was more valuable as a leadership experience for me. 
+                        I helped brainstorm and choose the project, and also managed the team by
+                        assigning roles to each person according to their interests/skills. I also 
+                        essentially built the entire frontend, and helped connect it to the database.🗺️"
+                    />
+                    <Project 
+                        image={typehelper}
+                        link="https://typehelper.vercel.app/"
+                        title="TypeHelper"
+                        description="This was the final project for a class called Applied Internet Technologies.
+                        In this class, you learn about the basics of web development. I decided to make a 
+                        website similar to monkeytype, and wanted to try building it with Next.js with a 
+                        MongoDB server."/>
                     <Project 
                         image={portfolio}
                         link="/"
