@@ -22,17 +22,15 @@ const Projects = () => {
                 <div className="intro-text">
                     <h1>Projects</h1>
                     <p>
-                        In my classes, I have mostly
-                        been learning theory that's helped me build a foundation. 
+                        Throughout my education, my classes primarily focused on theory, which has been 
+                        instrumental in helping me build a foundation. But, the practical aspects have been lacking. 
                     </p>
                     <p>
-                        So, outside of school I've been dabbling in both web development and machine learning. 
-                        Lately, I've been trying to learn languages and linguistics, so I have gotten more interested 
-                        in NLP (especially it's use cases in translations).
+                        As a result, these projects are an attempt to fulfill a lack of practical skills through side projects
+                        that I've found to be interesting! Mostly, they have been smaller scale web/ML apps, but the goal is 
+                        to ramp them up over time (and also to possibly collaborate with others)!
                     </p>
-                    <p>
-                        Without further ado, here's what I've been working on lately:
-                    </p>
+                   
                 </div>
             </div>
             <div className="projects-list">

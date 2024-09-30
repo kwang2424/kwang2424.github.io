@@ -12,7 +12,7 @@ const Navigation = () => {
                 <Link to="/">Home</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/podcasts">Podcasts</Link>
-                <a href="https://drive.google.com/file/d/1F3sGOcCqf__U0kdupyjQo2F5TeyxAZfS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1QFicLofXnQo5YLsUHJNuTXO_pDIPr-Z7/view?usp=sharing"_blank" rel="noopener noreferrer">
                     Resume
                 </a>
             </nav>
